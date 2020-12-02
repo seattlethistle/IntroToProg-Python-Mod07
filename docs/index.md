@@ -33,16 +33,16 @@ Figure 4 displays the output file "HomeInventory.dat".
 ### Figure 1: Script File in PyCharm
   
   
-![Script run window in PyCharm](https://github.com/seattlethistle/IntroToProg-Python-Mod07/blob/main/docs/figure-2.bmp)  
-#### Figure 2: Script run window in PyCharm
+![Figure 2](https://github.com/seattlethistle/IntroToProg-Python-Mod07/blob/main/docs/figure-2.png "Figure 2")
+### Figure 2: Script run window in PyCharm
   
   
-![Script running from a Command Shell](https://github.com/seattlethistle/IntroToProg-Python-Mod07/blob/main/docs/figure-3.bmp)  
-#### Figure 3: Script running from a Command Shell
+![Figure 3](https://github.com/seattlethistle/IntroToProg-Python-Mod07/blob/main/docs/figure-3.png "Figure 3")
+### Figure 3: Script running from a Command Shell
   
   
-![Output File](https://github.com/seattlethistle/IntroToProg-Python-Mod07/blob/main/docs/figure-4.bmp)  
-#### Figure 4: Output File
+![Figure 4](https://github.com/seattlethistle/IntroToProg-Python-Mod07/blob/main/docs/figure-4.png "Figure 4")
+### Figure 4: Output File
   
 
 
