@@ -29,8 +29,8 @@ Figure 3 displays the code being ran at the command prompt.
 Figure 4 displays the output file "HomeInventory.dat".  
   
 
-![Script File in PyCharm](https://github.com/seattlethistle/IntroToProg-Python-Mod07/blob/main/docs/figure-1.bmp)  
-#### Figure 1: Script File in PyCharm  
+![Figure 1](https://github.com/seattlethistle/IntroToProg-Python-Mod07/blob/main/docs/figure-1.png "Figure 1")
+### Figure 1: Script File in PyCharm
   
   
 ![Script run window in PyCharm](https://github.com/seattlethistle/IntroToProg-Python-Mod07/blob/main/docs/figure-2.bmp)  
