@@ -3,9 +3,9 @@
  
 ## 1. Introduction
 	 
-This paper documents my learning from Module 7, the goal of which was to learn about creating scripts using custom functions, files and error handling.  We also learned about creating advanced GitHub web pages. 
-	 
-I have demonstrated my learning by 
+This paper documents my learning from Module 7, the goal of which was to learn about creating scripts using custom functions, files and error handling.  We also learned about creating advanced GitHub web pages.   
+  
+I have demonstrated my learning by  
 	• Being able to answer the questions provided in the Assignment 
 	• Creating a script that performs this week's task
 	• Running the script within both PyCharm and a command shell
