@@ -29,17 +29,17 @@ Figure 3 displays the code being ran at the command prompt.
 Figure 4 displays the output file "HomeInventory.dat".  
   
 
-
-### Figure 1: Script File in PyCharm  
+![asdf](https://github.com/seattlethistle/IntroToProg-Python-Mod07/blob/main/docs/figure-1.bmp)
+#### Figure 1: Script File in PyCharm  
   
 
-### Figure 2: Script run window in PyCharm
+#### Figure 2: Script run window in PyCharm
   
   
-### Figure 3: Script running from a Command Shell
+#### Figure 3: Script running from a Command Shell
   
   
-### Figure 4: Output File
+#### Figure 4: Output File
 
 
 
