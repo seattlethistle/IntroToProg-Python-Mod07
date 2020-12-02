@@ -10,7 +10,7 @@ I have demonstrated my learning by
 	• Running the script within both PyCharm and a command shell  
 	• Posting my files on GitHub: https://github.com/seattlethistle/IntroToProg-Python-Mod07  
 	• Adding a new GitHub web page to my repository: https://seattlethistle.github.io/IntroToProg-Python-Mod07/  
-	• Post my GitHub link to the message board  
+	• Posting my GitHub link to the message board  
 	• Peer reviewing another student's files in GitHub and adding my comments to their post  
 
 ## 2. Discussion  
