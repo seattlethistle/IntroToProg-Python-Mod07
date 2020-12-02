@@ -21,19 +21,19 @@ I incorporated Pickling by modifying the functions to use pickle.load and pickle
 I incorporated Exception Handling under menu item 2.  Since I defined the estimated value of the item to be a floating point number, I was able to insert a try/except block to catch anyone accidentally entering text.  This displays a user friendly error message and gives the user another chance to enter a number.   
   
 
-![Figure 1](https://github.com/seattlethistle/IntroToProg-Python-Mod07/blob/main/docs/figure-1.png "Figure 1")
+![Figure 1](figure-1.png "Figure 1")
 ### Figure 1: Script File in PyCharm
   
   
-![Figure 2](https://github.com/seattlethistle/IntroToProg-Python-Mod07/blob/main/docs/figure-2.png "Figure 2")
+![Figure 2](figure-2.png "Figure 2")
 ### Figure 2: Script run window in PyCharm
   
   
-![Figure 3](https://github.com/seattlethistle/IntroToProg-Python-Mod07/blob/main/docs/figure-3.png "Figure 3")
+![Figure 3](figure-3.png "Figure 3")
 ### Figure 3: Script running from a Command Shell
   
   
-![Figure 4](https://github.com/seattlethistle/IntroToProg-Python-Mod07/blob/main/docs/figure-4.png "Figure 4")
+![Figure 4](figure-4.png "Figure 4")
 ### Figure 4: Output File
   
 
